@@ -144,37 +144,37 @@ https://www.coingecko.com/api/docs/v3
     cgc.exchanges_id_volume_chart()
     ```
 - _finance_
-  - **/finance_platforms** (List all finance platforms)
+  - **/finance_platforms**
     ```python
     cgc.get_finance_platforms()
     ```
-  - **/finance_products** (List all finance products)
+  - **/finance_products**
     ```python
     cgc.get_finance_products()
     ```
 - _indexes_
-  - **/indexes** (List all market indexes)
+  - **/indexes**
     ```python
     cgc.indexes()
     ```
-  - **/indexes/{market_id}/{id}** (Get market index by market id and index id)
+  - **/indexes/{market_id}/{id}**
     ```python
     cgc.indexes_market_id_id()
     ```
-  - **/indexes/list** (List market indexes id and name)
+  - **/indexes/list**
     ```python
     cgc.indexes_list()
     ```
 - _derivatives_
-  - **/derivatives** (List all derivative tickers)
+  - **/derivatives**
     ```python
     cgc.derivatives()
     ```
-  - **/derivatives/exchanges** (List all derivative exchanges)
+  - **/derivatives/exchanges**
     ```python
     cgc.derivatives_exchanges()
     ```
-  - **/derivatives/exchanges/{id}** (Show derivative exchange data)
+  - **/derivatives/exchanges/{id}**
     ```python
     cgc.derivatives_exchanges_id()
     ```
@@ -199,7 +199,7 @@ https://www.coingecko.com/api/docs/v3
     cgc.search_trending()
     ```
 - _global_
-  - **/global** (Get cryptocurrency global data)
+  - **/global**
     ```python
     cgc.get_global()
     ```
