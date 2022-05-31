@@ -2,7 +2,7 @@
 Python3 wrapper around the [CoinGecko](https://www.coingecko.com/en/api) API (V3)
 
 ### Usage Pro API
-View our [API plans]([https://www.coingecko.com/en/api](https://www.coingecko.com/en/api/pricing) now.
+View our [API plans]([https://www.coingecko.com/en/api](https://www.coingecko.com/en/api/pricing)) now.
 
 ```python
 from .api import CoinAPI
