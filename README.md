@@ -94,7 +94,7 @@ https://www.coingecko.com/api/docs/v3
     ```python
     cgc.coins_market_chart_range()
     ```
-  - **/coins/{id}/ohlc** (Get coin's OHLC (beta))
+  - **/coins/{id}/ohlc**
     ```python
     cgc.coins_ohlc()
     ```
