@@ -36,11 +36,6 @@ Examples:
 
 >>> cgc.simple_price(ids='bitcoin,litecoin',vs_currencies='usd')
 {'bitcoin': {'usd': 31774}, 'litecoin': {'usd': 69.32}}
-
->>> cgc.get_price(ids='bitcoin,litecoin,ethereum', vs_currencies='usd,eur')
-# OR (lists can be used for multiple-valued arguments)
->>> cgc.get_price(ids=['bitcoin', 'litecoin', 'ethereum'], vs_currencies=['usd', 'eur'])
-{'bitcoin': {'usd': 3459.39, 'eur': 3019.33}, 'ethereum': {'usd': 106.91, 'eur': 93.31}, 'litecoin': {'usd': 32.72, 'eur': 28.56}}
 ```
 
 ### API documentation
