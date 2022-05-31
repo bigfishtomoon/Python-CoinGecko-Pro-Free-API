@@ -20,6 +20,7 @@ cgc = CoinAPI()
 ### Examples
 
 The required parameters for each endpoint are defined as required (mandatory) parameters for the corresponding functions.\
+
 **Any optional parameters** can be passed using same names, as defined in CoinGecko API doc (https://www.coingecko.com/api/docs/v3)
 
 For any parameter:
