@@ -9,6 +9,7 @@ cgc = CoinAPI(api_key='CG-XXXXX')
 ```
 
 ### Usage Free API
+Free API* has a rate limit of 50 calls/minute. 
 
 ```python
 from .api import CoinAPI
