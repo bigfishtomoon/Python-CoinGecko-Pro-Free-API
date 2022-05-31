@@ -1,4 +1,4 @@
-# A Python CoinGecko Pro &amp; Free API
+# Python CoinGecko Pro API &amp; Free API
 Python3 wrapper around the [CoinGecko](https://www.coingecko.com/en/api) API (V3)
 
 ### Usage Pro API
