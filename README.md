@@ -1,6 +1,13 @@
 # Python CoinGecko Pro API &amp; Free API
 Python3 wrapper around the [CoinGecko](https://www.coingecko.com/en/api) API (V3)
 
+### Requirements
+Libraries: json, urllib3
+
+```python
+pip install urllib3
+```
+
 ### Usage Pro API
 View CoinGecko [API price plans](https://www.coingecko.com/en/api/pricing) now.
 
